@@ -21,7 +21,7 @@ I find JSX a little difficult to cope but, with a little more time, I will get u
 
 ### View it live
 
-Netlify: https://670bf7d3da100ba49a05ea71--cute-profiterole-7ddc46.netlify.app/
+Netlify: https://cute-profiterole-7ddc46.netlify.app
 Host: http://localhost:5175/
 
 ## Instructions
